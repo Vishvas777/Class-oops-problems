@@ -18,5 +18,5 @@ public class finding_largest {
         int largest=findlargest(a,b);
         System.out.println("The largest number is: "+largest);
         sc.close();
-        
+      
     }
